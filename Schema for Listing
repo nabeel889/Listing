@@ -1,0 +1,51 @@
+### Schema for Car Listing
+
+- **Listing ID**: 4692
+- **Title**: Toyota Camry New
+- **URL**: [Toyota Camry New](https://loanify-automobilesearch-dev.azurewebsites.net/listing/toyota-camry-new/)
+- **Images**:
+  - ![Image 1](https://loanifyaut-00c166a42bb3ec79-endpoint.azureedge.net/wp-content/uploads/2023/11/car8-660x440.jpg)
+  - ![Image 2](https://loanifyaut-00c166a42bb3ec79-endpoint.azureedge.net/wp-content/uploads/2023/11/car3-660x440.jpg)
+  - ![Image 3](https://loanifyaut-00c166a42bb3ec79-endpoint.azureedge.net/wp-content/uploads/2023/11/car11-660x440.jpg)
+  - ![Image 4](https://loanifyaut-00c166a42bb3ec79-endpoint.azureedge.net/wp-content/uploads/2023/11/car10-660x440.jpg)
+  - ![Image 5](https://loanifyaut-00c166a42bb3ec79-endpoint.azureedge.net/wp-content/uploads/2023/11/car1-660x440.jpg)
+
+- **Price**: $40,000
+- **Mileage**: 20 Miles
+- **Fuel Type**: Petrol
+- **Transmission**: Automatic
+- **Condition**: New
+- **Label**: Great Price
+- **Offer Type**: Hot Offer
+- **Drive Type**: All-Wheel Drive (AWD)
+- **Doors**: 4 Doors
+- **Cylinders**: 31
+- **Colors Available**: Black, Blue, White
+- **Features**:
+  - Air Conditioner
+  - Android Auto
+  - Anti-Lock Braking
+  - Apple CarPlay
+  - Bluetooth
+  - Brake Assist
+  - Child Safety Locks
+  - Digital Odometer
+  - Driver Air Bag
+  - Fog Lights (Front)
+  - Heater
+  - Homelink
+  - Leather Seats
+  - Panoramic Moonroof
+  - Power Door Locks
+  - Power Steering
+  - Rain Sensing Wiper
+  - Rear Spoiler
+  - Stability Control
+  - Tachometer
+  - Touchscreen Display
+  - Traction Control
+  - Electric Windows
+
+- **Location**:
+  - **Latitude**: 40.71340810129451
+  - **Longitude**: -73.9671829932311
